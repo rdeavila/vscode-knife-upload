@@ -1,15 +1,8 @@
-# vscode-duplicate
+# vscode-knife-upload
 
-> Ability to duplicate files and directories in VS Code.
+> Ability to upload files to Chef Server in VS Code. Based on the work of [Denis Malinochkin](https://github.com/mrmlnc) with [vscode-duplicate](https://github.com/mrmlnc/vscode-duplicate).
 
-## Donate
-
-If you want to thank me, or promote your Issue.
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mrmlnc)
-
-> Sorry, but I have work and support for plugins and modules requires some time after work. I will be glad of your support or PR's.
-
+<!--
 ## Install
 
   * Press <kbd>F1</kbd> and `select Extensions: Install Extensions`.
@@ -74,8 +67,8 @@ To change keyboard shortcuts, create a new rule in `File -> Preferences -> Keybo
 
 ## Changelog
 
-See the [Releases section of our GitHub project](https://github.com/mrmlnc/vscode-duplicate/releases) for changelogs for each release version.
-
+See the [Releases section of our GitHub project](https://github.com/rdeavila/vscode-knife-upload/releases) for changelogs for each release version.
+-->
 ## License
 
 This software is released under the terms of the MIT license.
